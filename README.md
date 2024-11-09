@@ -11,12 +11,10 @@
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Currently working as a Full Stack Developer at <a href="https://qrsof.com" target="_blank">Qrsof</a>
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: JavaScript && Python
+🌟 Main languages: JavaScript, C# and Python
 🚩 Interested in Full Stack Machine Learning Application development
 </pre>
 
-
-# My skills
 ## Languages used in these repos
 
 ### Web development and day-to-day stuff
