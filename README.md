@@ -1,9 +1,4 @@
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dyxbenjamin.hashnode.dev)
-
-
-# $whoami 👋
-
-
+# Benjamin Garrido
 
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Entusiast
@@ -14,6 +9,11 @@
 🌟 Main languages: JavaScript, C# and Python
 🚩 Interested in Full Stack Machine Learning Application development
 </pre>
+
+[![Linkedin: Benjamin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/benjamingarridog)](https://linkedin.com/in/benjamingarridog)
+[![Instagram: Benjamin](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/benjamingarridog)](https://instagram.com/benjamingarridog)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dyxbenjamin.hashnode.dev)
+
 
 ## Languages used in these repos
 
