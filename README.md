@@ -1,6 +1,6 @@
 # Benjamin Garrido
 
-<pre>
+<pre style="font-size: 0.9rem; line-height: 1.8rem;">
 💻 I am a self taught Full Stack Developer and a Machine Learning Entusiast
 📚 Studying Electronics Engineering at Universidad Autónoma del Estado de Hidalgo
 📝 I have a strong interest in Data Science and Artificial Intelligence
